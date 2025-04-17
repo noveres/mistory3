@@ -66,5 +66,6 @@
 
 ## 📬 聯絡方式
 
-安若殊｜[LinkedIn](#)｜[個人網站](https://noveres.github.io/)｜Email: youremail@example.com  
+安若殊｜[LinkedIn](https://www.linkedin.com/in/noveres/)｜[個人網站](https://noveres.github.io/)｜[Email：andrew901117@gmail.com](https://mail.google.com/mail/?view=cm&to=andrew901117@gmail.com)
+
 歡迎交流設計與開發心得 🙌
