@@ -119,6 +119,7 @@
 ## 📬 聯絡方式
 
 安若殊｜[LinkedIn](https://www.linkedin.com/in/noveres/)｜[個人網站](https://noveres.github.io/)｜[Email：andrew901117@gmail.com](https://mail.google.com/mail/?view=cm&to=andrew901117@gmail.com)
+
 魏綸志｜[LinkedIn](https://www.linkedin.com/in/guan-jhih-wei-044853324)｜[個人網站](https://slimedark5565.artstation.com/)｜[Email：slimeblock5565@gmail.com](https://mail.google.com/mail/?view=cm&to=slimeblock5565@gmail.com)
 
 歡迎交流設計與開發心得 🙌
